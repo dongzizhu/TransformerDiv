@@ -1,0 +1,5 @@
+This project runs with pytorch 1.11.0.
+
+To run the code, use
+
+python TransformerBatch.py
